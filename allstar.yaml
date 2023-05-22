@@ -1,5 +1,6 @@
 optConfig:
   optOutStrategy: true
+  optOutPrivateRepos: true
   disableRepoOverride: true
   optOutRepos:
   - momo
