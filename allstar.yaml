@@ -3,5 +3,3 @@ optConfig:
   optInRepos:
   - test
   - test2
-  - kaniko
-  - skaffold
