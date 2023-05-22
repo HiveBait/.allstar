@@ -1,5 +1,5 @@
 optConfig:
+  requireApproval
   disableRepoOverride: true
-  optInRepos:
-  - test
-  - test2
+  optOutRepos:
+  - momo
