@@ -1,7 +1,7 @@
 optConfig:
   disableRepoOverride: true
   optInRepos:
-  - container-diff
-  - distroless
+  - test
+  - test2
   - kaniko
   - skaffold
